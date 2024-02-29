@@ -1,3 +1,28 @@
 * {
     background: pink;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300, 400, 700;
+    font-style: normal;
+    /* list-style-type: none; */
+    /* text-decoration: line-through; */
 }
+
+.completed {
+    text-decoration: line-through;
+}
+
+/* #check {
+    text-decoration: line-through;
+} */
+
+/* #check-list {
+    text-decoration: line-through;
+}
+
+.hidden {
+    display: none;
+} */
+
+
+
+  
